@@ -1,0 +1,26 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.2",
+    "entityType" : "IdRepositoryUser",
+    "entityId" : "amAdmin",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "amAdmin",
+    "userPassword" : null,
+    "userPassword-encrypted" : "AAAAA0FFUwIQ0uac6uTVZ+LwDcCKWD2FwfntJaPTISPgivREKPncjc7bIkNomisLaU5rG9Cek7bgoXBeR/fWb2NMC5wTEozRIV/dRAs2VUeVl0Rfl3kIp0YFLpnpEfQYm5KRKfwK1VllyzxWHlnYNE9s05hajEtKSmfPhJF2R9+cEZnIB87UJZUxYa/5NDlF7JBUT1TN0lmS3XRmsp/vZgk=",
+    "givenName" : "amAdmin",
+    "roles" : [ ],
+    "dn" : "uid=amAdmin,ou=people,",
+    "cn" : "amAdmin",
+    "inetUserStatus" : "Active",
+    "sn" : "amAdmin",
+    "iplanet-am-user-auth-config" : "[Empty]",
+    "_type" : {
+      "_id" : "user",
+      "name" : "User",
+      "collection" : true
+    }
+  }
+}
